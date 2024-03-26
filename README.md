@@ -25,15 +25,15 @@ para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
 ### Links úteis
 
 - [Google SpreadSheets](https://docs.google.com/spreadsheets/u/0/)
-
 - [Chat GPT](https://chat.openai.com/)
-
 - [Google Gemini](https://gemini.google.com)
 
 ### Desafios
 
 - Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
-
 - Pegar via Chat GPT as faixas de idade;
-
 - Pedir para o GPT gerar a fórmula IF para as faixas de idade.
+
+### Prompts utilizados
+
+- com os dados da tabela abaixo pode preencher duas novas colunas com o segmento da empresa e a idade da empresa? [Colar abaixo os dados]
