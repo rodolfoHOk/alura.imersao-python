@@ -37,3 +37,32 @@ para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
 ### Prompts utilizados
 
 - com os dados da tabela abaixo pode preencher duas novas colunas com o segmento da empresa e a idade da empresa? [Colar abaixo os dados]
+
+## Aula 02: Gráficos e Análises com Google CoLab e Python Pandas
+
+### Introdução
+
+Nesta aula, vamos criar gráficos e tabelas no Google Sheets e, começar a 
+manipulação de dados com Python Pandas pelo Google CoLab!
+
+Nesta aula, você vai:
+
+- Gerar de tabelas e cálculos de estatísticas;
+- Criar gráficos no Google Sheets;
+- Conhecer o Google CoLab;
+- Iniciar a manipulação de dados com Python Pandas.
+
+* Bônus: Fique até o final da aula e descubra insights e orientações exclusivas 
+para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
+
+### Links úteis
+
+- [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb)
+- [Alura Guia Python](https://www.alura.com.br/artigos/python)
+- [Pandas](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
+
+### Desafios
+
+- Crie um gráfico de barras olhando a faixa etária e o valor da variação;
+- Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
+- Explore os tipos de gráficos com os dados já feitos.
