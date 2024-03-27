@@ -66,3 +66,8 @@ para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
 - Crie um gráfico de barras olhando a faixa etária e o valor da variação;
 - Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
 - Explore os tipos de gráficos com os dados já feitos.
+ 
+ ### Google CoLab
+
+ - https://colab.research.google.com/drive/1KC87DlEP1aTxpPJ8FmD9YpvdRjWNupxe?authuser=0#scrollTo=1sAvpAlnVXan
+ 
