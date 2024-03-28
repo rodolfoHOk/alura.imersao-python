@@ -67,7 +67,38 @@ para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
 - Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
 - Explore os tipos de gráficos com os dados já feitos.
  
- ### Google CoLab
+### Google CoLab
 
- - https://colab.research.google.com/drive/1KC87DlEP1aTxpPJ8FmD9YpvdRjWNupxe?authuser=0#scrollTo=1sAvpAlnVXan
+- https://colab.research.google.com/drive/1KC87DlEP1aTxpPJ8FmD9YpvdRjWNupxe?authuser=0#scrollTo=1sAvpAlnVXan
  
+## Aula 03: Manipulação de Dados e Criação de Gráficos com bibliotecas Python
+
+### Introdução
+
+Nesta aula, vamos continuar a manipulação de dados com Pandas no CoLab por meio
+da transformação da planilha de ações. Além disso, vamos começar a construir
+gráficos com a biblioteca Plotly.
+
+Nesta aula, você vai:
+
+- Manipular dados com Pandas;
+- Transformar a planilha de ações com funções do Pandas;
+- Construir gráficos com a biblioteca Plotly Express;
+- Usar o Chat GPT durante o código.
+
+* bonus: Fique até o final da aula e descubra insights e orientações exclusivas para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
+
+### Links úteis
+
+- [Pandas group by](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
+- [Plotly bar charts](https://plotly.com/python/bar-charts/)
+
+### Desafios
+
+- Pesquise com a documentação da biblioteca Plotly ou GPT como mudar a formatação dos números do gráfico de barras;
+- Fazer o gráfico de pizza no df_análise_segmentos com a mesma biblioteca Plotly;
+- Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
+
+### Google CoLab
+
+- https://colab.research.google.com/drive/1KC87DlEP1aTxpPJ8FmD9YpvdRjWNupxe?authuser=0#scrollTo=1sAvpAlnVXan
