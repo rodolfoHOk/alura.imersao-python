@@ -131,3 +131,28 @@ para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
 ### Google CoLab
 
 - https://colab.research.google.com/drive/1-PvxXrrHRqe0bDoOmxpvHDPhP6BjvVI5?authuser=0#scrollTo=sTD-Bn2bZiWk
+
+## Aula 05: Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
+
+### Introdução
+
+Nesta última aula, vamos introduzir o Machine Learning com Prophet para além de
+todas as ferramentas já aprendidas durante a Imersão. Também vamos conhecer
+sobre as carreiras do mercado de dados.
+
+Nesta aula, você vai:
+
+- Ter uma introdução ao Machine Learning;
+- Revisar ferramentas aprendidas durante a Imersão;
+- Conhecer mais sobre as carreiras no mercado de dados.
+
+* Bônus: Fique até o final da aula e descubra insights e orientações exclusivas
+para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
+
+### Links úteis
+
+- [Framer](https://www.framer.com/)
+
+### Google CoLab
+
+- https://colab.research.google.com/drive/1M9EfUxKVCREpCBWmBB6Wj4HgCAGqXIvN?authuser=0#scrollTo=PIEAf5ka_enm
