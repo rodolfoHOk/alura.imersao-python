@@ -114,3 +114,8 @@ idade_values = df_analise_cat_idade['quantidade']
 idade_labels = df_analise_cat_idade['cat_idade']
 fig_idades_quantidade = px.pie(values=idade_values, names=idade_labels, title="Quantidades de empresas por Faixa etária")
 fig_idades_quantidade.show()
+
+"""## Aula 4
+
+https://colab.research.google.com/drive/1-PvxXrrHRqe0bDoOmxpvHDPhP6BjvVI5?authuser=0
+"""
